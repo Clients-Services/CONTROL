@@ -1,6 +1,4 @@
 {
-  "WE": {
-    "link": "http://paraty.com",
-  },
-  "liberado": true
+  "WE": "http://paraty.com",
+  "link": true
 }
